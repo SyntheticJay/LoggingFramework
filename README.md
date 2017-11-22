@@ -1,6 +1,6 @@
 # (Simple) Logging framework for java.
 This logging framework is for the people who want a simple and pleasant experience with logging in the java language.
-It's not ment to be advanced, just simple.
+It's not meant to be advanced, just simple.
 
 ## Use
 To be able to use the Logging Framework you need to initialize it like this.
