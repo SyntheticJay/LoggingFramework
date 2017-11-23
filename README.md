@@ -6,7 +6,7 @@ It's not ment to be advanced, just simple.
 To be able to use the Logging Framework you need to initialize it like this.
 
 ```
-Logger logger = new LoggerFactory().withName("name").withParenthases(true|false);
+Logger logger = new LoggerFactory().withName("name").withParenthesis(true|false).create();
 ```
 
 ## Features
@@ -27,5 +27,12 @@ Well, first you must read the `license`.
 Also, ask me for permission to use it on discord. (Jay#2823).
 
 Thanks!
+
+ChangeLog:
+
+23/11/2017:
+
+- Added Time (Suggestion by Stone_Warrior)
+- Improved code, new create() method (needed to use)
 
 ~Jay
