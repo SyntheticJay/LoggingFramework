@@ -89,10 +89,11 @@ public class LoggerFactory implements Logger {
     /**
      * <p>
      *  Create's the new LoggerFactory instance using the specified arguments.
+     *  (Made static, thanks Stone <3)
      * </p>
      * @return
      */
-    public LoggerFactory create() {
+    public static LoggerFactory create() {
         return new LoggerFactory().withName(this.name).withParenthesis(this.withParenthesis);
     }
 }
