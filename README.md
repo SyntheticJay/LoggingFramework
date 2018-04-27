@@ -33,6 +33,10 @@ Also, ask me for permission to use it on discord. (Jay#2823).
 - Added Time (Thanks for the suggestion Stone_Warrior <3)
 - Added new Method, create() (needed to use, thanks stone bb)
 
+27/4/2018:
+
+- Been some time, eh? Might add some stuff when the time comes.
+
 Thanks!
 
 ~Jay
