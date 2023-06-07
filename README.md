@@ -23,8 +23,7 @@ The level's are categorized in ranking and can be accessed.
 
 ## Use of this framework
 
-Well, first you must read the `license`.
-Also, ask me for permission to use it on discord. (Jay#2823).
+Refer to the license.
 
 ## Changelog
 
